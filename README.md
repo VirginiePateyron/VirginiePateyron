@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <img src="web-designer.png" width="500"/>
   <h1>Hi there 👋</h1>
+  <img src="web-designer.png" width="500"/>
 </div>
 
 ### :woman_technologist: About Me :
