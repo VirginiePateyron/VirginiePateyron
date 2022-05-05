@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="woman-developer-working.png" width="500"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/virginiepateyron/"><img src="https://img.shields.io/badge/-linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
@@ -8,8 +7,8 @@
   <a href="https://www.behance.net/Virginievriessa"><img src="https://img.shields.io/badge/Behance-9cf?style=for-the-badge&logo=behance&logoColor=grey" alt="Behance Badge"/></a>
 </div>
 
-### Hi there 👋
-
+<h1>Hi there 👋</h1>
+</div>
 <!--
 **VirginiePateyron/VirginiePateyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
