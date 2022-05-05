@@ -48,4 +48,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Idées :
+### Some website projects :
+- <a href="" target="_blank">A one page website for a start-up <img src="" alt="" width="" /></a>
+- <a href="" target="_blank">A one page website for an arts organization <img src="" alt="" width="" /></a>
+- <a href="" target="_blank">A home page website for a portfolio <img src="" alt="" width="" /></a>
+
+One page website           |  One page website         | home page website |
+for a start-up             |  for an arts organization | for a portfolio   |
+:-------------------------:|:-------------------------:|------------------:|
+<a href="https://virginiepateyron.github.io/Huddle.github.io/"><img src="" alt=" width="" /></a>  |  ![](https://...Ocean.png)  |     |
+
 -->
