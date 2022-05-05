@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  ![Affaires vecteur créé par upklyak - fr.freepik.com](woman-developer-working.png)
-</div> 
+  <img src="woman-developer-working.png" width="100"/>
+</div>
 
 ### Hi there 👋
 
