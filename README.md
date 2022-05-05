@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  ![Affaires vecteur créé par upklyak - fr.freepik.com](woman-developer-working.png)
+</div> 
+
 ### Hi there 👋
 
 <!--
