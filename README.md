@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="woman-developer-working.png" width="300"/>
+  <img src="woman-developer-working.png" alt= "Woman developer working, illustration by upklyak from freepik" width="300"/>
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/virginiepateyron/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
@@ -10,11 +10,11 @@
 
 <div align="center">
   <h1>Hi there 👋</h1>
-  <img src="web-designer.png" width="500"/>
+  <img src="web-designer.png" alt="web designer illustration inspired by graphic designer illustration by upklyak from freepik" width="500"/>
 </div>
 
 ### :woman_technologist: About Me :
-I am a Web Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from France.
+I am a Web Designer <img src="cute-fox-working-on-pc.png"> from France.
 
 - :star: I’m working as a HTML integrator and WordPress developer, contributing to NGO's website conception.
 
