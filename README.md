@@ -36,30 +36,16 @@ I am a Web Designer <img src="cute-fox-working-on-pc.png" width="50"> from Franc
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
-<!--
-**VirginiePateyron/VirginiePateyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🖥️ HTML Integration Projects :
+
+<a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank"><h4>Super App responsive, accessible and sustainable website</h4></a>
+
+[<img src="https://github.com/VirginiePateyron/Super-App.github.io/blob/0fd4c300da1f0f5f1f1765320da6504a06e0cb57/img/mockup-superapp-both.png" target="_blank">](https://virginiepateyron.github.io/Super-App.github.io/)
+
+<a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank" style=""><img src="https://img.shields.io/badge/-click%20to%20visit-dd5555?style=for-the-badge" alt="Click to visit Super App Website"/></a>
 
 
-Idées :
-### Some website projects :
-- <a href="" target="_blank">A one page website for a start-up <img src="" alt="" width="" /></a>
-- <a href="" target="_blank">A one page website for an arts organization <img src="" alt="" width="" /></a>
-- <a href="" target="_blank">A home page website for a portfolio <img src="" alt="" width="" /></a>
 
-One page website           |  One page website         | home page website |
-for a start-up             |  for an arts organization | for a portfolio   |
-:-------------------------:|:-------------------------:|------------------:|
-<a href="https://virginiepateyron.github.io/Huddle.github.io/"><img src="" alt=" width="" /></a>  |  ![](https://...Ocean.png)  |     |
-
--->
