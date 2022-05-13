@@ -41,15 +41,29 @@ I am a Web Designer <img src="cute-fox-working-on-pc.png" width="50"> from Franc
 
 ### 🖥️ HTML Integration Projects :
 
-<a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank"><h4>Super App responsive, accessible and sustainable website</h4></a>
+<div>
+  <h4><a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank">Super App responsive, accessible and sustainable website</a></h4>
 
-[<img src="https://github.com/VirginiePateyron/Super-App.github.io/blob/0fd4c300da1f0f5f1f1765320da6504a06e0cb57/img/mockup-superapp-both.png" target="_blank">](https://virginiepateyron.github.io/Super-App.github.io/)
+  [<img src="https://github.com/VirginiePateyron/Super-App.github.io/blob/0fd4c300da1f0f5f1f1765320da6504a06e0cb57/img/mockup-superapp-both.png" target="_blank">](https://virginiepateyron.github.io/Super-App.github.io/)
 
-<div class="row">
-<a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank" style=""><img src="https://img.shields.io/badge/-visit%20the%20website-dd5555?style=for-the-badge" alt="Click to visit Super App Website"/></a> 
+  <div class="row">
+  <a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank" style=""><img src="https://img.shields.io/badge/-visit%20the%20website-dd5555?style=for-the-badge" alt="Click to visit Super App Website"/></a> 
 
-<a href="https://github.com/VirginiePateyron/Super-App.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-link%20to%20doc%20github-grey?style=for-the-badge" alt="Click to visit project process in GitHub"/></a> 
-</div>
+  <a href="https://github.com/VirginiePateyron/Super-App.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-link%20to%20doc%20github-grey?style=for-the-badge" alt="Click to visit project process in GitHub"/></a> 
+  </div>
+<div>
+  
+<div>
+  <h4><a href="https://virginiepateyron.github.io/fratrie.github.io/" target="_blank">'In the Other Side' : responsive, accessible and sustainable one-page educational website</a></h4>
+
+  [<img src="https://github.com/VirginiePateyron/fratrie.github.io/blob/cb4cbd0bbf8d6607ae2b885a1874f242a452e36b/assets/img/replique_refonte_mockup-opti.jpg" target="_blank"  width="500">](https://virginiepateyron.github.io/fratrie.github.io/)
+
+  <div class="row">
+  <a href="https://virginiepateyron.github.io/fratrie.github.io/" target="_blank" style=""><img src="https://img.shields.io/badge/-visit%20the%20website-ADDDDF?style=for-the-badge" alt="Click to visit Super App Website"/></a> 
+
+  <a href="https://github.com/VirginiePateyron/fratrie.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-link%20to%20doc%20github-grey?style=for-the-badge" alt="Click to visit project process in GitHub"/></a> 
+  </div>
+<div>
 
 
 
