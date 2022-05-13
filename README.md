@@ -34,6 +34,7 @@ I am a Web Designer <img src="cute-fox-working-on-pc.png" width="50"> from Franc
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **VirginiePateyron/VirginiePateyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
