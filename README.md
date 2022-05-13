@@ -45,9 +45,11 @@ I am a Web Designer <img src="cute-fox-working-on-pc.png" width="50"> from Franc
 
 [<img src="https://github.com/VirginiePateyron/Super-App.github.io/blob/0fd4c300da1f0f5f1f1765320da6504a06e0cb57/img/mockup-superapp-both.png" target="_blank">](https://virginiepateyron.github.io/Super-App.github.io/)
 
+<div class="row">
 <a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank" style=""><img src="https://img.shields.io/badge/-visit%20the%20website-dd5555?style=for-the-badge" alt="Click to visit Super App Website"/></a> 
 
-<a href="https://github.com/VirginiePateyron/Super-App.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-link%20to%20github-grey?style=for-the-badge" alt="Click to visit project process in GitHub"/></a> 
+<a href="https://github.com/VirginiePateyron/Super-App.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-link%20to%20doc%20github-grey?style=for-the-badge" alt="Click to visit project process in GitHub"/></a> 
+</div>
 
 
 
