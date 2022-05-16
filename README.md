@@ -42,16 +42,16 @@ I am a Web Designer <img src="cute-fox-working-on-pc.png" width="50"> from Franc
 ### 🖥️ HTML Integration Projects :
 
 <div>
-  <h4><a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank">Super App responsive, accessible and sustainable website</a></h4>
+  <h4><a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank">'Super App' : responsive, accessible and sustainable website</a></h4>
 
   [<img src="https://github.com/VirginiePateyron/Super-App.github.io/blob/0fd4c300da1f0f5f1f1765320da6504a06e0cb57/img/mockup-superapp-both.png" target="_blank">](https://virginiepateyron.github.io/Super-App.github.io/)
 
   <div class="row">
   <a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank" style=""><img src="https://img.shields.io/badge/-visit%20the%20website-dd5555?style=for-the-badge" alt="Click to visit Super App Website"/></a> 
 
-  <a href="https://github.com/VirginiePateyron/Super-App.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-link%20to%20doc%20github-grey?style=for-the-badge" alt="Click to visit project process in GitHub"/></a> 
+  <a href="https://github.com/VirginiePateyron/Super-App.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-Link%20to%20Doc%20GitHub-%233D4061?style=for-the-badge&logo=github&logoColor=white" alt="Click to visit project process in GitHub"/></a> 
   </div>
-<div>
+</div>
   
 <div>
   <h4><a href="https://virginiepateyron.github.io/fratrie.github.io/" target="_blank">'In the Other Side' : responsive, accessible and sustainable one-page educational website</a></h4>
@@ -61,9 +61,21 @@ I am a Web Designer <img src="cute-fox-working-on-pc.png" width="50"> from Franc
   <div class="row">
   <a href="https://virginiepateyron.github.io/fratrie.github.io/" target="_blank" style=""><img src="https://img.shields.io/badge/-visit%20the%20website-ADDDDF?style=for-the-badge" alt="Click to visit Super App Website"/></a> 
 
-  <a href="https://github.com/VirginiePateyron/fratrie.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-link%20to%20doc%20github-grey?style=for-the-badge" alt="Click to visit project process in GitHub"/></a> 
+  <a href="https://github.com/VirginiePateyron/fratrie.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-Link%20to%20Doc%20GitHub-%233D4061?style=for-the-badge&logo=github&logoColor=white" alt="Click to visit project process in GitHub"/></a> 
   </div>
+</div>
+
 <div>
+  <h4><a href="https://virginiepateyron.github.io/blogr_landing-page.github.io/" target="_blank">'Blogr' : responsive landing page with TailwindCSS</a></h4>
+
+  [<img src="https://github.com/VirginiePateyron/blogr_landing-page.github.io/blob/f52287d04925d4782996c521483c4efb9fa780ea/images/mockup-blogr_both.png" target="_blank"  width="500">](https://virginiepateyron.github.io/blogr_landing-page.github.io/)
+
+  <div class="row">
+  <a href="https://virginiepateyron.github.io/blogr_landing-page.github.io/" target="_blank" style=""><img src="https://img.shields.io/badge/-visit%20the%20website-e53e3e?style=for-the-badge" alt="Click to visit Blogr Landing Page"/></a> 
+
+  <a href="https://github.com/VirginiePateyron/blogr_landing-page.github.io" target="_blank" style=""><img src="https://img.shields.io/badge/-Link%20to%20Doc%20GitHub-%233D4061?style=for-the-badge&logo=github&logoColor=white" alt="Click to visit project process in GitHub"/></a> 
+  </div>
+</div>
 
 
 
