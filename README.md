@@ -14,7 +14,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Web Designer <img src="cute-fox-working-on-pc.png" width="50"> from France.
+I am a Web and WordPress Integrator <img src="cute-fox-working-on-pc.png" width="50"> from France.
 
 - :star: I’m working as a HTML integrator and WordPress developer, contributing to website conception for ethical projects..
 
