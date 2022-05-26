@@ -52,7 +52,7 @@ I am a Web and WordPress Integrator <img src="cute-fox-working-on-pc.png" width=
 ### 🖥️ HTML Integration Projects :
 
 <div>
-  <h4><a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank">'Super App' : responsive, accessible and sustainable website</a></h4>
+  <h4><a href="https://virginiepateyron.github.io/Super-App.github.io/" target="_blank">'Super App' : responsive, accessible and sustainable one page website</a></h4>
 
   [<img src="https://github.com/VirginiePateyron/Super-App.github.io/blob/0fd4c300da1f0f5f1f1765320da6504a06e0cb57/img/mockup-superapp-both.png" target="_blank">](https://virginiepateyron.github.io/Super-App.github.io/)
 
