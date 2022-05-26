@@ -9,12 +9,12 @@
 </div>
 
 <div align="center">
-  <h1>Hi there 👋</h1>
+  <h1>Hi there <img src="cute-fox-working-on-pc.png" width="70"></h1>
   <img src="web-designer.png" alt="web designer illustration inspired by graphic designer illustration by upklyak from freepik" width="500"/>
 </div>
 
 ### :woman_technologist: About Me :
-I am a Web and WordPress Integrator <img src="cute-fox-working-on-pc.png" width="50"> from France.
+I am a Web and WordPress Integrator from France.
 
 :star: I’m working as a HTML integrator and WordPress developer, contributing to website conception for ethical projects..
 
