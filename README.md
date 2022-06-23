@@ -88,4 +88,8 @@ I am a Web and WordPress Integrator from France.
 </div>
 
 
+<div style="font-size: 10px">
+  <a href="https://www.freepik.com/vectors/computer-room">Source de l'image: Computer room vector created by upklyak - www.freepik.com</a>  
+</div>
+
 
