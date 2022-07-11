@@ -18,7 +18,7 @@ I am a Web and WordPress Integrator from France.
 
 :star: I’m working as a HTML integrator and WordPress developer, contributing to website conception for ethical projects..
 
-:seedling: Learning sustainable web design.
+:seedling: Learning sustainable web design, accessible tools (vanilla JS, JS framework...), open-source tools.
 
 :zap: Fun fact : In my free time, I solve problems IRL with citizens, learn to build a community to defend sustainable growth.
 
