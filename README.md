@@ -3,7 +3,7 @@
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/virginiepateyron/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
-    <a href="https://www.instagram.com/vriessa_comweb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/></a>
+    <a href="https://www.instagram.com/vriessa_vriessa_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/></a>
     <a href="https://www.behance.net/virginie_pateyron" target="_blank"><img src="https://img.shields.io/badge/Behance-9cf?style=for-the-badge&logo=behance&logoColor=grey" alt="Behance Badge"/></a>
   </div>
 </div>
